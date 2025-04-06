@@ -26,7 +26,7 @@ The dataset includes the following relational tables:
 - `Categories`
 
 These tables are interconnected using primary and foreign key relationships.  
-![Database Schema](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Customer_Database_Schema.JPG.png)
+![Database Schema](https://github.com/Vijetha598/Retail-Business-Intelligence-Dashboard/blob/main/Screenshots/Customer_Database_Schema.JPG.png)
 
 ---
 
@@ -51,10 +51,10 @@ These tables are interconnected using primary and foreign key relationships.
 ## 📊 Power BI Dashboards
 
 ### ➤ Homepage
-![Dashboard Home](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Home%20Page.jpeg)
+![Dashboard Home](https://github.com/Vijetha598/Retail-Business-Intelligence-Dashboard/blob/main/Screenshots/Dashboard%20Home%20Page.jpeg)
 
 ### ➤ Page 2
-![Dashboard Page 2](https://github.com/mayurpaunikar7/customer-behavior-sql-analytics/blob/main/SCHEMA/Dashboard%20Page%202.jpeg)
+![Dashboard Page 2](https://github.com/Vijetha598/Retail-Business-Intelligence-Dashboard/blob/main/Screenshots/Dashboard%20Page%202.jpeg)
 
 ---
 
